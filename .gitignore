@@ -1,0 +1,4 @@
+/node_modules    # Escludi l'intera cartella node_modules
+/dist            # Escludi la cartella dist (se è presente)
+package-lock.json # Escludi il file package-lock.json
+yarn.lock        # Escludi il file yarn.lock (se usi Yarn)
