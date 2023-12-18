@@ -26,17 +26,20 @@ const io = socketIo(server);
 // Gestisci la connessione di un client
 io.on('connection', function(socket) {
     console.log('Un client è connesso!');
-    
+    socket.on('newbie', function(username) {
+        socket.username = username;
+    });
+       
     socket.on('messaggio dal client', function(msg) {
             // Ricevi il messaggio dal client e fai qualcosa con esso
         console.log('Messaggio ricevuto dal client:', msg);
-        io.emit('server message', msg+" Ricevuto");
+        io.emit('server message', msg+" Grazie "+socket.username );
     });
     socket.on('broadcast', function(msg) {
         // Ricevi il messaggio dal client e fai qualcosa con esso
     console.log('Messaggio ricevuto dal client:', msg);
-    socket.broadcast.emit('server message', 'Qualcun altro ha detto: ' + msg);
-});
+    socket.broadcast.emit('server message', socket.username +'>' + msg);
+    });
     
     socket.on('disconnect', function() {
             console.log('Un client si è disconnesso.');

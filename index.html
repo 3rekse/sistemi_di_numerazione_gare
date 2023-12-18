@@ -5,7 +5,7 @@
         <title>Socket.io</title>
     </head>
  
-<body>
+<body onload="showWelcomeAlert()">
     <h1>OK Communication with socket.io!</h1>
 <!-- Form per l'invio del messaggio -->
 <form id="message-form">
@@ -48,8 +48,10 @@
         li.textContent = msg;
         messagesList.appendChild(li);
     }
-
-    
+    function showWelcomeAlert() {
+    var username = prompt('BENVENUTO What\'s your username?');
+socket.emit('newbie', username);
+    }
 </script>
 </body>
 </html>
