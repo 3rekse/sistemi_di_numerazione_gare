@@ -1,0 +1,1011 @@
+  },
+  {
+    username: '🎿',
+    real: 'Oualid Ayoubi',
+    punti: 8,
+    prove: 2,
+    classe: 'ayobi',
+    gara: 3
+  },
+  {
+    username: '📨',
+    real: 'lorenzo bianchi',
+    punti: 8,
+    prove: 2,
+    classe: '1Aoleggio',
+    gara: 12
+  },
+  {
+    username: '🔕',
+    real: 'marco schiavo',
+    punti: 8,
+    prove: 6,
+    classe: '21',
+    gara: 13
+  },
+  {
+    username: '🕩',
+    real: 'Samuele Bove',
+    punti: 8,
+    prove: 2,
+    classe: 'sbove09',
+    gara: 14
+  },
+  {
+    username: '🎹',
+    real: 'Davide Cairo',
+    punti: 7.5,
+    prove: 13,
+    classe: '1COL',
+    gara: 11
+  },
+  {
+    username: '👹',
+    real: 'Giona Laperuta',
+    punti: 7.5,
+    prove: 11,
+    classe: '1AOL',
+    gara: 10
+  },
+  {
+    username: '🔊',
+    real: 'Tomas Cerulli',
+    punti: 7.5,
+    prove: 3,
+    classe: '1AOL',
+    gara: 13
+  },
+  {
+    username: '🕝',
+    real: 'Matteo Renna',
+    punti: 7.5,
+    prove: 3,
+    classe: '1COL2',
+    gara: 14
+  },
+  {
+    username: '🎶',
+    real: 'matteo cusari',
+    punti: 7,
+    prove: 12,
+    classe: '1COL72',
+    gara: 11
+  },
+  {
+    username: '🏭',
+    real: 'Leonardo Frizzi',
+    punti: 7,
+    prove: 4,
+    classe: 'O',
+    gara: 4
+  },
+  {
+    username: '👧',
+    real: 'Luca Simonelli',
+    punti: 7,
+    prove: 4,
+    classe: 'CASABLU',
+    gara: 9
+  },
+  {
+    username: '💜',
+    real: 'coumir abderahim',
+    punti: 7,
+    prove: 8,
+    classe: '1COL',
+    gara: 10
+  },
+  ... 216 more items
+]
+[
+  {
+    username: '🕟',
+    real: 'Matteo Cusari',
+    punti: 37.5,
+    prove: 1,
+    classe: '1COL2',
+    gara: 14
+  },
+  {
+    username: '🕔',
+    real: 'Giosu&#232; Pavia',
+    punti: 37,
+    prove: 2,
+    classe: 'oleggio',
+    gara: 14
+  },
+  {
+    username: '🏙',
+    real: 'Giosu&#232; Pavia',
+    punti: 27.5,
+    prove: 13,
+    classe: '1COLa',
+    gara: 3
+  },
+  {
+    username: '🏯',
+    real: 'Giosu&#232; Pavia',
+    punti: 27,
+    prove: 6,
+    classe: 'O',
+    gara: 4
+  },
+  {
+    username: '🕕',
+    real: 'Niccol&#242; Fonio',
+    punti: 23,
+    prove: 8,
+    classe: 'oleggio',
+    gara: 14
+  },
+  {
+    username: '🍺',
+    real: 'Iesshua Cardenas',
+    punti: 22.5,
+    prove: 3,
+    classe: '1MAa',
+    gara: 8
+  },
+  {
+    username: '🔁',
+    real: 'Marcello Maschio',
+    punti: 22.5,
+    prove: 3,
+    classe: 'TEOSIMO',
+    gara: 19
+  },
+  {
+    username: '📮',
+    real: 'Samuele De Oliveir',
+    punti: 22.5,
+    prove: 3,
+    classe: '1Aoleggio',
+    gara: 12
+  },
+  {
+    username: '🕛',
+    real: 'Davide Cairo',
+    punti: 22.5,
+    prove: 9,
+    classe: 'oleggio',
+    gara: 14
+  },
+  {
+    username: '📡',
+    real: 'Pietro Rossignoli',
+    punti: 22,
+    prove: 4,
+    classe: '1mb',
+    gara: 19
+  },
+  {
+    username: '🕜',
+    real: 'Marco Palumbo',
+    punti: 22,
+    prove: 10,
+    classe: '1COL2',
+    gara: 14
+  },
+  {
+    username: '🍧',
+    real: 'Luca Foschi',
+    punti: 21.5,
+    prove: 5,
+    classe: '1MC0',
+    gara: 1
+  },
+  {
+    username: '🍂',
+    real: 'Diego Perez',
+    punti: 21.5,
+    prove: 11,
+    classe: '(1MC)',
+    gara: 1
+  },
+  {
+    username: '📪',
+    real: 'christian marcis',
+    punti: 21.5,
+    prove: 17,
+    classe: '1Aoleggio',
+    gara: 12
+  },
+  {
+    username: '🏤',
+    real: 'Samuele Bove',
+    punti: 21,
+    prove: 6,
+    classe: 'Sbove',
+    gara: 3
+  },
+  {
+    username: '👼',
+    real: 'Samuele De Oliveir',
+    punti: 21,
+    prove: 6,
+    classe: '1AOL',
+    gara: 10
+  },
+  {
+    username: '🔂',
+    real: 'Tomas Cerulli',
+    punti: 21,
+    prove: 0,
+    classe: '1A',
+    gara: 12
+  },
+  {
+    username: '🍹',
+    real: 'davide fiore',
+    punti: 20.5,
+    prove: 13,
+    classe: '1MAa',
+    gara: 8
+  },
+  {
+    username: '🍦',
+    real: 'Matteo Giudice',
+    punti: 20,
+    prove: 2,
+    classe: '1mb',
+    gara: 7
+  },
+  {
+    username: '🎃',
+    real: 'Fabio  Liu',
+    punti: 20,
+    prove: 2,
+    classe: '1MAb',
+    gara: 8
+  },
+  {
+    username: '🍷',
+    real: 'giulio putorti',
+    punti: 20,
+    prove: 8,
+    classe: '1 MAa',
+    gara: 8
+  },
+  {
+    username: '🎁',
+    real: 'alberto airoldi',
+    punti: 20,
+    prove: 2,
+    classe: '1MAb',
+    gara: 8
+  },
+  {
+    username: '🏏',
+    real: 'Edoardo Trevisan',
+    punti: 20,
+    prove: 2,
+    classe: 'Edo09',
+    gara: 3
+  },
+  {
+    username: '🐱',
+    real: 'filippo martelli',
+    punti: 20,
+    prove: 2,
+    classe: '05',
+    gara: 7
+  },
+  {
+    username: '🕗',
+    real: 'Daniel Filice',
+    punti: 20,
+    prove: 2,
+    classe: 'oleggio',
+    gara: 14
+  },
+  {
+    username: '🍞',
+    real: 'Aaron  Barbaglia',
+    punti: 18.5,
+    prove: 5,
+    classe: '1mb',
+    gara: 7
+  },
+  {
+    username: '🏵',
+    real: 'Marco Palumbo',
+    punti: 18.5,
+    prove: 5,
+    classe: 'O',
+    gara: 4
+  },
+  {
+    username: '📝',
+    real: 'Simone de Stefano',
+    punti: 18,
+    prove: 6,
+    classe: 'teosimo',
+    gara: 19
+  },
+  {
+    username: '👗',
+    real: 'alex piva',
+    punti: 18,
+    prove: 0,
+    classe: 'quattro',
+    gara: 8
+  },
+  {
+    username: '🕭',
+    real: 'manuel Rosxi',
+    punti: 18,
+    prove: 0,
+    classe: '13',
+    gara: 14
+  },
+  {
+    username: '🍨',
+    real: 'Morgan Pisoni',
+    punti: 17.5,
+    prove: 1,
+    classe: '1MC0',
+    gara: 1
+  },
+  {
+    username: '🐋',
+    real: 'alex piva',
+    punti: 17,
+    prove: 2,
+    classe: '53550',
+    gara: 7
+  },
+  {
+    username: '🎀',
+    real: 'Luca Bergamo',
+    punti: 16.5,
+    prove: 9,
+    classe: '1MAb',
+    gara: 8
+  },
+  {
+    username: '🍿',
+    real: 'riccardo brusatori',
+    punti: 15.5,
+    prove: 5,
+    classe: '1MAb',
+    gara: 8
+  },
+  {
+    username: '🍵',
+    real: 'tommaso oppedisano',
+    punti: 15,
+    prove: 12,
+    classe: '1MAa',
+    gara: 8
+  },
+  {
+    username: '🕤',
+    real: 'MAnuel Rossi',
+    punti: 15,
+    prove: 0,
+    classe: '1coll',
+    gara: 14
+  },
+  {
+    username: '🔑',
+    real: 'Salvatore Manno',
+    punti: 14.5,
+    prove: 1,
+    classe: 'SASSOCARTA',
+    gara: 19
+  },
+  {
+    username: '🏻',
+    real: 'Niccol&#242; Fonio',
+    punti: 14.5,
+    prove: 1,
+    classe: '1COL',
+    gara: 4
+  },
+  {
+    username: '🍡',
+    real: 'Simone de Stefano',
+    punti: 14,
+    prove: 8,
+    classe: '1mb',
+    gara: 7
+  },
+  {
+    username: '🍾',
+    real: 'ermanno redona',
+    punti: 14,
+    prove: 14,
+    classe: '1MAb',
+    gara: 8
+  },
+  {
+    username: '🍻',
+    real: 'ierna  andrea',
+    punti: 14,
+    prove: 2,
+    classe: '1MAa',
+    gara: 8
+  },
+  {
+    username: '🐝',
+    real: 'Giulio Imeri',
+    punti: 14,
+    prove: 2,
+    classe: '14',
+    gara: 7
+  },
+  {
+    username: '🍬',
+    real: 'giovanni spano',
+    punti: 13.5,
+    prove: 3,
+    classe: '1mb',
+    gara: 7
+  },
+  {
+    username: '📳',
+    real: 'samuele trezzi',
+    punti: 13.5,
+    prove: 3,
+    classe: '1Aoleggio',
+    gara: 12
+  },
+  {
+    username: '🎄',
+    real: 'Federico Nappini',
+    punti: 13,
+    prove: 0,
+    classe: '1MAb',
+    gara: 8
+  },
+  {
+    username: '🎲',
+    real: 'Mnuel Rossi',
+    punti: 13,
+    prove: 8,
+    classe: 'melisbabbo',
+    gara: 11
+  },
+  {
+    username: '📠',
+    real: 'Samuele Puricelli',
+    punti: 13,
+    prove: 4,
+    classe: '1mb',
+    gara: 19
+  },
+  {
+    username: '🏥',
+    real: 'Leonardo Frizzi',
+    punti: 13,
+    prove: 4,
+    classe: 'Sbove',
+    gara: 3
+  },
+  {
+    username: '🍨',
+    real: 'Michele Sauna',
+    punti: 12.5,
+    prove: 5,
+    classe: '1mb',
+    gara: 7
+  },
+  {
+    username: '🍩',
+    real: 'samuele puricelli',
+    punti: 12.5,
+    prove: 1,
+    classe: '1mb',
+    gara: 7
+  },
+  {
+    username: '🍭',
+    real: 'Marcello Maschio',
+    punti: 12.5,
+    prove: 1,
+    classe: '1mb',
+    gara: 7
+  },
+  {
+    username: '🐵',
+    real: 'alex piva',
+    punti: 12.5,
+    prove: 1,
+    classe: 'porta',
+    gara: 7
+  },
+  {
+    username: '👞',
+    real: 'filippo martelli',
+    punti: 12.5,
+    prove: 1,
+    classe: 'destra',
+    gara: 9
+  },
+  {
+    username: '📱',
+    real: 'Giona Laperuta',
+    punti: 12.5,
+    prove: 5,
+    classe: '1Aoleggio',
+    gara: 12
+  },
+  {
+    username: '🕮',
+    real: 'Giosu&#232; Pavia',
+    punti: 12.5,
+    prove: 1,
+    classe: '13',
+    gara: 14
+  },
+  {
+    username: '🍪',
+    real: 'ETTORE PASQUINI',
+    punti: 12,
+    prove: 2,
+    classe: '1mb',
+    gara: 7
+  },
+  {
+    username: '🎼',
+    real: 'Marco Palumbo',
+    punti: 12,
+    prove: 4,
+    classe: '1COL72',
+    gara: 11
+  },
+  {
+    username: '🏁',
+    real: 'Samuele Bove',
+    punti: 12,
+    prove: 6,
+    classe: '1Col',
+    gara: 3
+  },
+  {
+    username: '👠',
+    real: 'alfonsino alfonsino',
+    punti: 12,
+    prove: 2,
+    classe: 'canale',
+    gara: 9
+  },
+  {
+    username: '🕞',
+    real: 'Nicholas Melis',
+    punti: 12,
+    prove: 6,
+    classe: '1COL2',
+    gara: 14
+  },
+  {
+    username: '🔆',
+    real: 'alessandro moschini',
+    punti: 11.5,
+    prove: 3,
+    classe: 'lk',
+    gara: 19
+  },
+  {
+    username: '👨',
+    real: 'gabriele carlomagno',
+    punti: 11.5,
+    prove: 3,
+    classe: '7',
+    gara: 9
+  },
+  {
+    username: '📫',
+    real: 'AK 47',
+    punti: 11.5,
+    prove: 3,
+    classe: '1Aolegio',
+    gara: 12
+  },
+  {
+    username: '🏷',
+    real: 'Nicholas Melis',
+    punti: 11,
+    prove: 0,
+    classe: 'O',
+    gara: 4
+  },
+  {
+    username: '🏰',
+    real: 'Nikola Shkoza',
+    punti: 11,
+    prove: 4,
+    classe: 'O',
+    gara: 4
+  },
+  {
+    username: '🔌',
+    real: 'Davide Cuttaia',
+    punti: 11,
+    prove: 0,
+    classe: '1AOL',
+    gara: 13
+  },
+  {
+    username: '🕄',
+    real: 'Leonardo Scollo',
+    punti: 11,
+    prove: 4,
+    classe: 'O',
+    gara: 14
+  },
+  {
+    username: '🏏',
+    real: ' Pavia',
+    punti: 10.5,
+    prove: 5,
+    classe: '1c',
+    gara: 11
+  },
+  {
+    username: '👜',
+    real: 'Giulio Imeri',
+    punti: 10.5,
+    prove: 1,
+    classe: 'destra',
+    gara: 9
+  },
+  {
+    username: '🍧',
+    real: 'Salvatore Manno',
+    punti: 10,
+    prove: 6,
+    classe: '1mb',
+    gara: 7
+  },
+  {
+    username: '🏹',
+    real: 'Oualid Ayoubi',
+    punti: 10,
+    prove: 10,
+    classe: 'O',
+    gara: 4
+  },
+  {
+    username: '🎛',
+    real: 'Luca Foschi',
+    punti: 9.5,
+    prove: 1,
+    classe: 'MC1',
+    gara: 9
+  },
+  {
+    username: '🏱',
+    real: 'Davide Cairo',
+    punti: 9.5,
+    prove: 7,
+    classe: 'O',
+    gara: 4
+  },
+  {
+    username: '🏬',
+    real: 'Matteo Cusari',
+    punti: 9.5,
+    prove: 11,
+    classe: 'O',
+    gara: 4
+  },
+  {
+    username: '🕪',
+    real: 'Samuele Bove',
+    punti: 9.5,
+    prove: 3,
+    classe: 'Oleggio',
+    gara: 14
+  },
+  {
+    username: '🍠',
+    real: 'Giona Ait Lahcen',
+    punti: 9,
+    prove: 4,
+    classe: '1mb',
+    gara: 7
+  },
+  {
+    username: '🎅',
+    real: 'NICCOLO MACHIARULO',
+    punti: 9,
+    prove: 4,
+    classe: '1MAb',
+    gara: 8
+  },
+  {
+    username: '🏶',
+    real: 'Daniel Filice',
+    punti: 9,
+    prove: 4,
+    classe: 'O',
+    gara: 4
+  },
+  {
+    username: '🐲',
+    real: 'Gabriele Bell&#232;',
+    punti: 9,
+    prove: 0,
+    classe: 'porta',
+    gara: 7
+  },
+  {
+    username: '👛',
+    real: 'Marco Caruso',
+    punti: 9,
+    prove: 0,
+    classe: '784512',
+    gara: 9
+  },
+  {
+    username: '👝',
+    real: 'Maimouna Diop',
+    punti: 9,
+    prove: 0,
+    classe: 'destra',
+    gara: 9
+  },
+  {
+    username: '📸',
+    real: 'marco FUSSILLO',
+    punti: 9,
+    prove: 4,
+    classe: '1hol',
+    gara: 12
+  },
+  {
+    username: '🌵',
+    real: ' ',
+    punti: 8.5,
+    prove: 5,
+    classe: 'hh',
+    gara: 5
+  },
+  {
+    username: '🍱',
+    real: 'Laura Di Stefano',
+    punti: 8.5,
+    prove: 5,
+    classe: '1mb',
+    gara: 7
+  },
+  {
+    username: '👦',
+    real: 'alessandro trinca',
+    punti: 8.5,
+    prove: 1,
+    classe: 'CASABLU',
+    gara: 9
+  },
+  {
+    username: '👢',
+    real: 'christian fontana',
+    punti: 8.5,
+    prove: 1,
+    classe: 'canale',
+    gara: 9
+  },
+  {
+    username: '🍟',
+    real: 'letizia benelli',
+    punti: 8,
+    prove: 6,
+    classe: '1mb',
+    gara: 7
+  },
+  {
+    username: '🍸',
+    real: 'modou sarr',
+    punti: 8,
+    prove: 2,
+    classe: '1MAa',
+    gara: 8
+  },
+  {
+    username: '🎿',
+    real: 'Oualid Ayoubi',
+    punti: 8,
+    prove: 2,
+    classe: 'ayobi',
+    gara: 3
+  },
+  {
+    username: '📨',
+    real: 'lorenzo bianchi',
+    punti: 8,
+    prove: 2,
+    classe: '1Aoleggio',
+    gara: 12
+  },
+  {
+    username: '🔕',
+    real: 'marco schiavo',
+    punti: 8,
+    prove: 6,
+    classe: '21',
+    gara: 13
+  },
+  {
+    username: '🕩',
+    real: 'Samuele Bove',
+    punti: 8,
+    prove: 2,
+    classe: 'sbove09',
+    gara: 14
+  },
+  {
+    username: '🎹',
+    real: 'Davide Cairo',
+    punti: 7.5,
+    prove: 13,
+    classe: '1COL',
+    gara: 11
+  },
+  {
+    username: '👹',
+    real: 'Giona Laperuta',
+    punti: 7.5,
+    prove: 11,
+    classe: '1AOL',
+    gara: 10
+  },
+  {
+    username: '🔊',
+    real: 'Tomas Cerulli',
+    punti: 7.5,
+    prove: 3,
+    classe: '1AOL',
+    gara: 13
+  },
+  {
+    username: '🕝',
+    real: 'Matteo Renna',
+    punti: 7.5,
+    prove: 3,
+    classe: '1COL2',
+    gara: 14
+  },
+  {
+    username: '🎶',
+    real: 'matteo cusari',
+    punti: 7,
+    prove: 12,
+    classe: '1COL72',
+    gara: 11
+  },
+  {
+    username: '🏭',
+    real: 'Leonardo Frizzi',
+    punti: 7,
+    prove: 4,
+    classe: 'O',
+    gara: 4
+  },
+  {
+    username: '👧',
+    real: 'Luca Simonelli',
+    punti: 7,
+    prove: 4,
+    classe: 'CASABLU',
+    gara: 9
+  },
+  {
+    username: '💜',
+    real: 'coumir abderahim',
+    punti: 7,
+    prove: 8,
+    classe: '1COL',
+    gara: 10
+  },
+  ... 216 more items
+]
+Dati scritti correttamente nel file "
+Dati scritti correttamente nel file "
+Dati utente aggiunti e salvati correttamente.
+Dati utente aggiunti e salvati correttamente.
+ABBANDONO
+29
+Dati scritti correttamente nel file "
+undefined:2531
+]
+^
+
+SyntaxError: Unexpected non-whitespace character after JSON at position 41373
+    at JSON.parse (<anonymous>)
+    at /home/developer/node_socket/appX.js:416:42
+    at FSReqCallback.readFileAfterClose [as oncomplete] (node:internal/fs/read/context:68:3)
+
+Node.js v20.5.1
+[nodemon] app crashed - waiting for file changes before starting...
+
+    real: 'Samuele Bove',
+    punti: 8,
+    prove: 2,
+    classe: 'sbove09',
+    gara: 14
+  },
+  {
+    username: '🎹',
+    real: 'Davide Cairo',
+    punti: 7.5,
+    prove: 13,
+    classe: '1COL',
+    gara: 11
+  },
+  {
+    username: '👹',
+    real: 'Giona Laperuta',
+    punti: 7.5,
+    prove: 11,
+    classe: '1AOL',
+    gara: 10
+  },
+  {
+    username: '🔊',
+    real: 'Tomas Cerulli',
+    punti: 7.5,
+    prove: 3,
+    classe: '1AOL',
+    gara: 13
+  },
+  {
+    username: '🕝',
+    real: 'Matteo Renna',
+    punti: 7.5,
+    prove: 3,
+    classe: '1COL2',
+    gara: 14
+  },
+  {
+    username: '🎶',
+    real: 'matteo cusari',
+    punti: 7,
+    prove: 12,
+    classe: '1COL72',
+    gara: 11
+  },
+  {
+    username: '🏭',
+    real: 'Leonardo Frizzi',
+    punti: 7,
+    prove: 4,
+    classe: 'O',
+    gara: 4
+  },
+  {
+    username: '👧',
+    real: 'Luca Simonelli',
+    punti: 7,
+    prove: 4,
+    classe: 'CASABLU',
+    gara: 9
+  },
+  {
+    username: '💜',
+    real: 'coumir abderahim',
+    punti: 7,
+    prove: 8,
+    classe: '1COL',
+    gara: 10
+  },
+  ... 216 more items
+]
+Dati scritti correttamente nel file "
+Dati scritti correttamente nel file "
+Dati utente aggiunti e salvati correttamente.
+Dati utente aggiunti e salvati correttamente.
+ABBANDONO
+29
+Dati scritti correttamente nel file "
+undefined:2531
+]
+^
+
+SyntaxError: Unexpected non-whitespace character after JSON at position 41373
+    at JSON.parse (<anonymous>)
+    at /home/developer/node_socket/appX.js:416:42
+    at FSReqCallback.readFileAfterClose [as oncomplete] (node:internal/fs/read/context:68:3)
+
+Node.js v20.5.1
+[nodemon] app crashed - waitinwhitespace characteg for file changes before starting...
